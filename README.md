@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HZX-sparkle
+- 👋 Hi, I’m @HZX-sparkle, a student from UESTC
 - 👀 I’m interested in animation，guitar/*not good at it😶‍🌫️*/，music/*Eason favorite 😍*/
 - 🌱 I’m currently learning bin, evolving into a hacker🤣
 - 💞️ I’m looking to collaborate on ...
