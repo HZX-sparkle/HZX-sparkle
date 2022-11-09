@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HZX-sparkle, a student from UESTC
-- 👀 I’m interested in animation，guitar/*not good at it😶‍🌫️*/，music/*Eason favorite 😍*/
-- 🌱 I’m currently learning bin, evolving into a hacker🤣
+- 👀 I’m interested in animation，guitar`not good at it😶‍🌫️`，music`Eason favorite 😍`
+- 🌱 I’m currently learning ctf bin, evolving into a hacker🤣
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...qq-2841287903
+- 📫 How to reach me : qq-2841287903
 
 <!---
 HZX-sparkle/HZX-sparkle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
